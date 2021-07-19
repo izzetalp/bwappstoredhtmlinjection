@@ -1,0 +1,18 @@
+<html>
+<p>Please enter your username and password to see the content!</p>
+<form action="ip-address-and-port-number">
+    <table>
+        <tr>
+            <td>Username:</td>
+            <td><input type="text" placeholder="Please enter your username"></td>
+        </tr>
+        <tr>
+            <td>Password:</td>
+            <td><input type="password" placeholder="Please enter your password"></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Log In"></td>
+        </tr>
+    </table>
+</form>
+</html>
